@@ -14,7 +14,7 @@
 | ❌Android 25 (7.1) | `docker pull trucknet/android-react-native-ci-alpine:android-25` 
 | ❌Android 26 (8.0) | `docker pull trucknet/android-react-native-ci-alpine:android-26`
 | ❌Android 27 (8.1) | `docker pull trucknet/android-react-native-ci-alpine:android-27`
-| ☑️Android 28 (9.0) | `docker pull hugogresse/android-react-native-ci-alpine-python:android-28`/android-28) |
+| ☑️Android 28 (9.0) | `docker pull hugogresse/android-react-native-ci-alpine-python:android-28`
 
 
 ### Use as Base Image
